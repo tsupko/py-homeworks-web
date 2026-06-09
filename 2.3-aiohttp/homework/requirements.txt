@@ -1,0 +1,13 @@
+aiohttp==3.13.5
+SQLAlchemy==2.0.49
+asyncpg==0.31.0
+python-dotenv==1.0.0
+requests==2.31.0
+Werkzeug==3.0.1
+aiosignal==1.4.0
+attrs==26.1.0
+frozenlist==1.8.0
+multidict==6.7.1
+yarl==1.23.0
+greenlet==3.5.0
+typing_extensions==4.15.0
